@@ -1,2 +1,2 @@
 # hello-world
-my frist repository :)
+This is my frist repository :)
